@@ -59,6 +59,7 @@ namespace ConsoleApp1
                 Console.WriteLine($"Games: {counter}");
                 if (answer != companswer)
                 {
+
                     switch (answer)
                     {
                         case "sten":
